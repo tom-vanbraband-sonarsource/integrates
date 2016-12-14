@@ -46282,3 +46282,1470 @@ DEBUG: 2016-12-13 21:33:29,627 "GET /api/v2/submission/292642743.json HTTP/1.1" 
 INFO: 2016-12-13 21:33:29,640 Starting new HTTPS connection (1): www.formstack.com
 DEBUG: 2016-12-13 21:33:29,912 Setting read timeout to None
 DEBUG: 2016-12-13 21:33:30,075 "GET /api/v2/submission/292647253.json HTTP/1.1" 200 1825
+INFO: 2016-12-14 15:22:29,955 Starting new HTTPS connection (1): api.onelogin.com
+DEBUG: 2016-12-14 15:22:30,808 Setting read timeout to None
+DEBUG: 2016-12-14 15:22:31,293 "POST /api/v3/saml/assertion HTTP/1.1" 200 5724
+INFO: 2016-12-14 15:22:45,496 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 15:22:46,168 Setting read timeout to None
+DEBUG: 2016-12-14 15:22:47,230 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 666
+INFO: 2016-12-14 15:22:47,235 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 15:22:47,769 Setting read timeout to None
+DEBUG: 2016-12-14 15:22:48,011 "GET /api/v2/submission/267582894.json HTTP/1.1" 200 1881
+INFO: 2016-12-14 15:22:48,019 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 15:22:48,626 Setting read timeout to None
+DEBUG: 2016-12-14 15:22:48,799 "GET /api/v2/submission/267873890.json HTTP/1.1" 200 1843
+INFO: 2016-12-14 15:59:45,691 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 15:59:47,022 Setting read timeout to None
+DEBUG: 2016-12-14 15:59:48,115 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 67
+INFO: 2016-12-14 15:59:58,249 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 15:59:58,636 Setting read timeout to None
+DEBUG: 2016-12-14 15:59:58,825 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 67
+INFO: 2016-12-14 16:00:08,716 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:00:09,167 Setting read timeout to None
+DEBUG: 2016-12-14 16:00:09,372 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 406
+INFO: 2016-12-14 16:00:09,377 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:00:09,884 Setting read timeout to None
+DEBUG: 2016-12-14 16:00:10,112 "GET /api/v2/submission/268148818.json HTTP/1.1" 200 1843
+INFO: 2016-12-14 16:00:10,119 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:00:10,806 Setting read timeout to None
+DEBUG: 2016-12-14 16:00:11,011 "GET /api/v2/submission/268210793.json HTTP/1.1" 200 1825
+INFO: 2016-12-14 16:00:11,020 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:00:11,562 Setting read timeout to None
+DEBUG: 2016-12-14 16:00:11,818 "GET /api/v2/submission/268946421.json HTTP/1.1" 200 1791
+INFO: 2016-12-14 16:00:11,827 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:00:12,444 Setting read timeout to None
+DEBUG: 2016-12-14 16:00:12,782 "GET /api/v2/submission/268947644.json HTTP/1.1" 200 1979
+INFO: 2016-12-14 16:00:12,790 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:00:13,161 Setting read timeout to None
+DEBUG: 2016-12-14 16:00:13,350 "GET /api/v2/submission/269004986.json HTTP/1.1" 200 1859
+INFO: 2016-12-14 16:07:48,488 Starting new HTTPS connection (1): api.onelogin.com
+DEBUG: 2016-12-14 16:07:49,152 Setting read timeout to None
+DEBUG: 2016-12-14 16:07:49,865 "POST /api/v3/saml/assertion HTTP/1.1" 200 5724
+INFO: 2016-12-14 16:08:05,810 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:08:06,360 Setting read timeout to None
+DEBUG: 2016-12-14 16:08:06,592 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 666
+INFO: 2016-12-14 16:08:06,601 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:08:07,044 Setting read timeout to None
+DEBUG: 2016-12-14 16:08:07,190 "GET /api/v2/submission/267582894.json HTTP/1.1" 200 1881
+INFO: 2016-12-14 16:08:07,200 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:08:07,687 Setting read timeout to None
+DEBUG: 2016-12-14 16:08:07,994 "GET /api/v2/submission/267873890.json HTTP/1.1" 200 1843
+INFO: 2016-12-14 16:08:17,339 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:08:17,716 Setting read timeout to None
+DEBUG: 2016-12-14 16:08:18,030 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 406
+INFO: 2016-12-14 16:08:18,037 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:08:18,438 Setting read timeout to None
+DEBUG: 2016-12-14 16:08:18,645 "GET /api/v2/submission/268148818.json HTTP/1.1" 200 1843
+INFO: 2016-12-14 16:08:18,653 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:08:19,055 Setting read timeout to None
+DEBUG: 2016-12-14 16:08:19,205 "GET /api/v2/submission/268210793.json HTTP/1.1" 200 1825
+INFO: 2016-12-14 16:08:19,217 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:08:19,594 Setting read timeout to None
+DEBUG: 2016-12-14 16:08:19,723 "GET /api/v2/submission/268946421.json HTTP/1.1" 200 1791
+INFO: 2016-12-14 16:08:19,732 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:08:20,015 Setting read timeout to None
+DEBUG: 2016-12-14 16:08:20,146 "GET /api/v2/submission/268947644.json HTTP/1.1" 200 1979
+INFO: 2016-12-14 16:08:20,159 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:08:20,422 Setting read timeout to None
+DEBUG: 2016-12-14 16:08:20,541 "GET /api/v2/submission/269004986.json HTTP/1.1" 200 1859
+INFO: 2016-12-14 16:41:12,111 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:41:13,004 Setting read timeout to None
+DEBUG: 2016-12-14 16:41:13,172 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 664
+INFO: 2016-12-14 16:41:13,181 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:41:13,856 Setting read timeout to None
+DEBUG: 2016-12-14 16:41:14,040 "GET /api/v2/submission/292423728.json HTTP/1.1" 200 1399
+INFO: 2016-12-14 16:41:14,051 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:41:14,572 Setting read timeout to None
+DEBUG: 2016-12-14 16:41:14,777 "GET /api/v2/submission/292424016.json HTTP/1.1" 200 1309
+INFO: 2016-12-14 16:41:21,407 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:41:21,843 Setting read timeout to None
+DEBUG: 2016-12-14 16:41:22,048 "GET /api/v2/submission/292423728.json HTTP/1.1" 200 1399
+INFO: 2016-12-14 16:41:28,904 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:41:29,318 Setting read timeout to None
+DEBUG: 2016-12-14 16:41:29,523 "GET /api/v2/submission/292424016.json HTTP/1.1" 200 1309
+ERROR: 2016-12-14 16:41:42,819 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "/var/www/fluid-integrates/app/views.py", line 88, in generate_autodoc
+    IE.Fluid(project, findings)
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 185, in __init__
+    self.fill_results_table(data)
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 263, in fill_results_table
+    results_table.rows[1].cells[3].text_frame.text = str("%d" % o_crit)
+  File "/usr/local/lib/python2.7/dist-packages/pptx/shapes/table.py", line 349, in __getitem__
+    raise IndexError(msg)
+IndexError: cell index [3] out of range
+INFO: 2016-12-14 16:58:33,108 Starting new HTTPS connection (1): api.onelogin.com
+DEBUG: 2016-12-14 16:58:33,943 Setting read timeout to None
+DEBUG: 2016-12-14 16:58:34,381 "POST /api/v3/saml/assertion HTTP/1.1" 200 5724
+INFO: 2016-12-14 16:58:41,176 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:58:41,657 Setting read timeout to None
+DEBUG: 2016-12-14 16:58:41,813 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 664
+INFO: 2016-12-14 16:58:41,822 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:58:42,442 Setting read timeout to None
+DEBUG: 2016-12-14 16:58:42,647 "GET /api/v2/submission/292423728.json HTTP/1.1" 200 1399
+INFO: 2016-12-14 16:58:42,653 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 16:58:43,055 Setting read timeout to None
+DEBUG: 2016-12-14 16:58:43,261 "GET /api/v2/submission/292424016.json HTTP/1.1" 200 1309
+ERROR: 2016-12-14 16:58:47,580 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "/var/www/fluid-integrates/app/views.py", line 88, in generate_autodoc
+    IE.Fluid(project, findings)
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 186, in __init__
+    self.fill_results_table(data)
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 264, in fill_results_table
+    results_table.rows[1].cells[3].text_frame.text = str("%d" % o_crit)
+  File "/usr/local/lib/python2.7/dist-packages/pptx/shapes/table.py", line 349, in __getitem__
+    raise IndexError(msg)
+IndexError: cell index [3] out of range
+ERROR: 2016-12-14 16:59:54,699 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "/var/www/fluid-integrates/app/views.py", line 88, in generate_autodoc
+    IE.Fluid(project, findings)
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 186, in __init__
+    self.fill_results_table(data)
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 264, in fill_results_table
+    results_table.rows[1].cells[3].text_frame.text = str("%d" % o_crit)
+  File "/usr/local/lib/python2.7/dist-packages/pptx/shapes/table.py", line 349, in __getitem__
+    raise IndexError(msg)
+IndexError: cell index [3] out of range
+ERROR: 2016-12-14 17:01:24,307 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "/var/www/fluid-integrates/app/views.py", line 88, in generate_autodoc
+    IE.Fluid(project, findings)
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 186, in __init__
+    self.fill_results_table(data)
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 264, in fill_results_table
+    results_table.rows[1].cells[3].text_frame.text = str("%d" % o_crit)
+  File "/usr/local/lib/python2.7/dist-packages/pptx/shapes/table.py", line 349, in __getitem__
+    raise IndexError(msg)
+IndexError: cell index [3] out of range
+ERROR: 2016-12-14 17:05:39,544 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "/var/www/fluid-integrates/app/views.py", line 88, in generate_autodoc
+    IE.Fluid(project, findings)
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 186, in __init__
+    self.fill_results_table(data)
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 264, in fill_results_table
+    results_table.rows[1].cells[3].text_frame.text = str("%d" % o_crit)
+  File "/usr/local/lib/python2.7/dist-packages/pptx/shapes/table.py", line 349, in __getitem__
+    raise IndexError(msg)
+IndexError: cell index [3] out of range
+INFO: 2016-12-14 17:58:35,035 Starting new HTTPS connection (1): api.onelogin.com
+DEBUG: 2016-12-14 17:58:35,793 Setting read timeout to None
+DEBUG: 2016-12-14 17:58:36,203 "POST /api/v3/saml/assertion HTTP/1.1" 200 5724
+INFO: 2016-12-14 18:08:31,923 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 18:08:32,487 Setting read timeout to None
+DEBUG: 2016-12-14 18:08:33,613 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 664
+INFO: 2016-12-14 18:08:33,618 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 18:08:34,226 Setting read timeout to None
+DEBUG: 2016-12-14 18:08:34,427 "GET /api/v2/submission/292423728.json HTTP/1.1" 200 1399
+INFO: 2016-12-14 18:08:34,437 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 18:08:34,928 Setting read timeout to None
+DEBUG: 2016-12-14 18:08:35,072 "GET /api/v2/submission/292424016.json HTTP/1.1" 200 1309
+INFO: 2016-12-14 18:08:38,166 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 18:08:38,528 Setting read timeout to None
+DEBUG: 2016-12-14 18:08:38,731 "GET /api/v2/submission/292423728.json HTTP/1.1" 200 1399
+ERROR: 2016-12-14 18:10:55,330 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "/var/www/fluid-integrates/app/views.py", line 88, in generate_autodoc
+    IE.Fluid(project, findings)
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 186, in __init__
+    self.fill_results_table(data)
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 264, in fill_results_table
+    results_table.rows[1].cells[3].text_frame.text = str("%d" % o_crit)
+  File "/usr/local/lib/python2.7/dist-packages/pptx/shapes/table.py", line 349, in __getitem__
+    raise IndexError(msg)
+IndexError: cell index [3] out of range
+ERROR: 2016-12-14 18:20:10,303 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/deprecation.py", line 134, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 270, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/fluidintegrates/urls.py", line 19, in <module>
+    url(r'^', include('app.urls'))
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/app/urls.py", line 6, in <module>
+    from . import views, errors
+  File "/var/www/fluid-integrates/app/views.py", line 13, in <module>
+    from autodoc import IE
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 274
+    shape, paragraph = self.finding_positions["hallazgo"]
+        ^
+SyntaxError: invalid syntax
+ERROR: 2016-12-14 18:20:13,933 Internal Server Error: /export_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/deprecation.py", line 134, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 270, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/fluidintegrates/urls.py", line 19, in <module>
+    url(r'^', include('app.urls'))
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/app/urls.py", line 6, in <module>
+    from . import views, errors
+  File "/var/www/fluid-integrates/app/views.py", line 13, in <module>
+    from autodoc import IE
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 274
+    shape, paragraph = self.finding_positions["hallazgo"]
+        ^
+SyntaxError: invalid syntax
+ERROR: 2016-12-14 18:20:14,377 Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/deprecation.py", line 134, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 270, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/fluidintegrates/urls.py", line 19, in <module>
+    url(r'^', include('app.urls'))
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/app/urls.py", line 6, in <module>
+    from . import views, errors
+  File "/var/www/fluid-integrates/app/views.py", line 13, in <module>
+    from autodoc import IE
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 274
+    shape, paragraph = self.finding_positions["hallazgo"]
+        ^
+SyntaxError: invalid syntax
+ERROR: 2016-12-14 18:54:14,816 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/deprecation.py", line 134, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 270, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/fluidintegrates/urls.py", line 19, in <module>
+    url(r'^', include('app.urls'))
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/app/urls.py", line 6, in <module>
+    from . import views, errors
+  File "/var/www/fluid-integrates/app/views.py", line 13, in <module>
+    from autodoc import IE
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 14
+    presentation = None
+                      ^
+IndentationError: unindent does not match any outer indentation level
+ERROR: 2016-12-14 18:54:18,366 Internal Server Error: /export_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/deprecation.py", line 134, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 270, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/fluidintegrates/urls.py", line 19, in <module>
+    url(r'^', include('app.urls'))
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/app/urls.py", line 6, in <module>
+    from . import views, errors
+  File "/var/www/fluid-integrates/app/views.py", line 13, in <module>
+    from autodoc import IE
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 14
+    presentation = None
+                      ^
+IndentationError: unindent does not match any outer indentation level
+ERROR: 2016-12-14 18:54:18,739 Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/deprecation.py", line 134, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 270, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/fluidintegrates/urls.py", line 19, in <module>
+    url(r'^', include('app.urls'))
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/app/urls.py", line 6, in <module>
+    from . import views, errors
+  File "/var/www/fluid-integrates/app/views.py", line 13, in <module>
+    from autodoc import IE
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 14
+    presentation = None
+                      ^
+IndentationError: unindent does not match any outer indentation level
+ERROR: 2016-12-14 18:55:03,968 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/deprecation.py", line 134, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 270, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/fluidintegrates/urls.py", line 19, in <module>
+    url(r'^', include('app.urls'))
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/app/urls.py", line 6, in <module>
+    from . import views, errors
+  File "/var/www/fluid-integrates/app/views.py", line 13, in <module>
+    from autodoc import IE
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 14
+    presentation = None
+                      ^
+IndentationError: unindent does not match any outer indentation level
+ERROR: 2016-12-14 18:55:07,639 Internal Server Error: /export_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/deprecation.py", line 134, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 270, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/fluidintegrates/urls.py", line 19, in <module>
+    url(r'^', include('app.urls'))
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/app/urls.py", line 6, in <module>
+    from . import views, errors
+  File "/var/www/fluid-integrates/app/views.py", line 13, in <module>
+    from autodoc import IE
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 14
+    presentation = None
+                      ^
+IndentationError: unindent does not match any outer indentation level
+ERROR: 2016-12-14 18:55:08,013 Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/deprecation.py", line 134, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 270, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/fluidintegrates/urls.py", line 19, in <module>
+    url(r'^', include('app.urls'))
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/app/urls.py", line 6, in <module>
+    from . import views, errors
+  File "/var/www/fluid-integrates/app/views.py", line 13, in <module>
+    from autodoc import IE
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 14
+    presentation = None
+                      ^
+IndentationError: unindent does not match any outer indentation level
+ERROR: 2016-12-14 18:55:40,966 Internal Server Error: /export_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/deprecation.py", line 134, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 270, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/fluidintegrates/urls.py", line 19, in <module>
+    url(r'^', include('app.urls'))
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/app/urls.py", line 6, in <module>
+    from . import views, errors
+  File "/var/www/fluid-integrates/app/views.py", line 13, in <module>
+    from autodoc import IE
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 14
+    presentation = None
+                      ^
+IndentationError: unindent does not match any outer indentation level
+ERROR: 2016-12-14 18:55:41,879 Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/deprecation.py", line 134, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 270, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/fluidintegrates/urls.py", line 19, in <module>
+    url(r'^', include('app.urls'))
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/app/urls.py", line 6, in <module>
+    from . import views, errors
+  File "/var/www/fluid-integrates/app/views.py", line 13, in <module>
+    from autodoc import IE
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 14
+    presentation = None
+                      ^
+IndentationError: unindent does not match any outer indentation level
+ERROR: 2016-12-14 18:55:58,112 Internal Server Error: /export_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/deprecation.py", line 134, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 270, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/fluidintegrates/urls.py", line 19, in <module>
+    url(r'^', include('app.urls'))
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/app/urls.py", line 6, in <module>
+    from . import views, errors
+  File "/var/www/fluid-integrates/app/views.py", line 13, in <module>
+    from autodoc import IE
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 13
+    presentation = None
+                      ^
+IndentationError: unindent does not match any outer indentation level
+ERROR: 2016-12-14 18:55:58,970 Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/deprecation.py", line 134, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 270, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/fluidintegrates/urls.py", line 19, in <module>
+    url(r'^', include('app.urls'))
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/app/urls.py", line 6, in <module>
+    from . import views, errors
+  File "/var/www/fluid-integrates/app/views.py", line 13, in <module>
+    from autodoc import IE
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 13
+    presentation = None
+                      ^
+IndentationError: unindent does not match any outer indentation level
+ERROR: 2016-12-14 18:56:24,185 Internal Server Error: /export_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/deprecation.py", line 134, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 270, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/fluidintegrates/urls.py", line 19, in <module>
+    url(r'^', include('app.urls'))
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/app/urls.py", line 6, in <module>
+    from . import views, errors
+  File "/var/www/fluid-integrates/app/views.py", line 13, in <module>
+    from autodoc import IE
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 14
+    presentation = None
+                      ^
+IndentationError: unindent does not match any outer indentation level
+ERROR: 2016-12-14 18:56:24,999 Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/deprecation.py", line 134, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 270, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/fluidintegrates/urls.py", line 19, in <module>
+    url(r'^', include('app.urls'))
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/app/urls.py", line 6, in <module>
+    from . import views, errors
+  File "/var/www/fluid-integrates/app/views.py", line 13, in <module>
+    from autodoc import IE
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 14
+    presentation = None
+                      ^
+IndentationError: unindent does not match any outer indentation level
+ERROR: 2016-12-14 18:58:35,601 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/deprecation.py", line 134, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 270, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/fluidintegrates/urls.py", line 19, in <module>
+    url(r'^', include('app.urls'))
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/app/urls.py", line 6, in <module>
+    from . import views, errors
+  File "/var/www/fluid-integrates/app/views.py", line 13, in <module>
+    from autodoc import IE
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 14
+    presentation = None
+                      ^
+IndentationError: unindent does not match any outer indentation level
+ERROR: 2016-12-14 18:58:38,873 Internal Server Error: /export_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/deprecation.py", line 134, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 270, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/fluidintegrates/urls.py", line 19, in <module>
+    url(r'^', include('app.urls'))
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/app/urls.py", line 6, in <module>
+    from . import views, errors
+  File "/var/www/fluid-integrates/app/views.py", line 13, in <module>
+    from autodoc import IE
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 14
+    presentation = None
+                      ^
+IndentationError: unindent does not match any outer indentation level
+ERROR: 2016-12-14 18:58:39,286 Internal Server Error: /export_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/deprecation.py", line 134, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 270, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/fluidintegrates/urls.py", line 19, in <module>
+    url(r'^', include('app.urls'))
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/app/urls.py", line 6, in <module>
+    from . import views, errors
+  File "/var/www/fluid-integrates/app/views.py", line 13, in <module>
+    from autodoc import IE
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 14
+    presentation = None
+                      ^
+IndentationError: unindent does not match any outer indentation level
+ERROR: 2016-12-14 18:58:39,311 Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/deprecation.py", line 134, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 270, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/fluidintegrates/urls.py", line 19, in <module>
+    url(r'^', include('app.urls'))
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/app/urls.py", line 6, in <module>
+    from . import views, errors
+  File "/var/www/fluid-integrates/app/views.py", line 13, in <module>
+    from autodoc import IE
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 14
+    presentation = None
+                      ^
+IndentationError: unindent does not match any outer indentation level
+ERROR: 2016-12-14 18:58:39,756 Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/deprecation.py", line 134, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 270, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/fluidintegrates/urls.py", line 19, in <module>
+    url(r'^', include('app.urls'))
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/app/urls.py", line 6, in <module>
+    from . import views, errors
+  File "/var/www/fluid-integrates/app/views.py", line 13, in <module>
+    from autodoc import IE
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 14
+    presentation = None
+                      ^
+IndentationError: unindent does not match any outer indentation level
+ERROR: 2016-12-14 18:59:29,420 Internal Server Error: /export_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/deprecation.py", line 134, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 270, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/fluidintegrates/urls.py", line 19, in <module>
+    url(r'^', include('app.urls'))
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/app/urls.py", line 6, in <module>
+    from . import views, errors
+  File "/var/www/fluid-integrates/app/views.py", line 13, in <module>
+    from autodoc import IE
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 14
+    presentation = None
+                      ^
+IndentationError: unindent does not match any outer indentation level
+ERROR: 2016-12-14 18:59:29,909 Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/deprecation.py", line 134, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python2.7/dist-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 270, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python2.7/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/fluidintegrates/urls.py", line 19, in <module>
+    url(r'^', include('app.urls'))
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/var/www/fluid-integrates/app/urls.py", line 6, in <module>
+    from . import views, errors
+  File "/var/www/fluid-integrates/app/views.py", line 13, in <module>
+    from autodoc import IE
+  File "/var/www/fluid-integrates/app/autodoc/IE.py", line 14
+    presentation = None
+                      ^
+IndentationError: unindent does not match any outer indentation level
+WARNING: 2016-12-14 18:59:48,743 Not Found: /favicon.ico
+INFO: 2016-12-14 19:01:14,187 Starting new HTTPS connection (1): api.onelogin.com
+DEBUG: 2016-12-14 19:01:15,176 Setting read timeout to None
+DEBUG: 2016-12-14 19:01:15,649 "POST /api/v3/saml/assertion HTTP/1.1" 200 5724
+INFO: 2016-12-14 19:01:22,414 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 19:01:23,022 Setting read timeout to None
+DEBUG: 2016-12-14 19:01:23,227 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 664
+INFO: 2016-12-14 19:01:23,233 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 19:01:23,846 Setting read timeout to None
+DEBUG: 2016-12-14 19:01:24,047 "GET /api/v2/submission/292423728.json HTTP/1.1" 200 1399
+INFO: 2016-12-14 19:01:24,052 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 19:01:24,764 Setting read timeout to None
+DEBUG: 2016-12-14 19:01:24,968 "GET /api/v2/submission/292424016.json HTTP/1.1" 200 1309
+INFO: 2016-12-14 20:23:41,619 Starting new HTTPS connection (1): api.onelogin.com
+DEBUG: 2016-12-14 20:23:42,435 Setting read timeout to None
+DEBUG: 2016-12-14 20:23:43,049 "POST /api/v3/saml/assertion HTTP/1.1" 401 92
+INFO: 2016-12-14 20:23:46,533 Starting new HTTPS connection (1): api.onelogin.com
+DEBUG: 2016-12-14 20:23:47,248 Setting read timeout to None
+DEBUG: 2016-12-14 20:23:47,555 "POST /api/v3/saml/assertion HTTP/1.1" 401 92
+INFO: 2016-12-14 20:23:50,373 Starting new HTTPS connection (1): api.onelogin.com
+DEBUG: 2016-12-14 20:23:51,037 Setting read timeout to None
+DEBUG: 2016-12-14 20:23:51,524 "POST /api/v3/saml/assertion HTTP/1.1" 200 5724
+INFO: 2016-12-14 20:24:02,752 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 20:24:03,325 Setting read timeout to None
+DEBUG: 2016-12-14 20:24:04,398 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 664
+INFO: 2016-12-14 20:24:04,404 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 20:24:04,861 Setting read timeout to None
+DEBUG: 2016-12-14 20:24:05,066 "GET /api/v2/submission/292423728.json HTTP/1.1" 200 1399
+INFO: 2016-12-14 20:24:05,073 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 20:24:05,680 Setting read timeout to None
+DEBUG: 2016-12-14 20:24:05,862 "GET /api/v2/submission/292424016.json HTTP/1.1" 200 1309
+ERROR: 2016-12-14 20:24:07,622 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "/var/www/fluid-integrates/app/views.py", line 88, in generate_autodoc
+    IT.Fluid(project, findings)
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 32, in __init__
+    self.workbook = load_workbook(filename=self.template_name)
+AttributeError: Fluid instance has no attribute 'template_name'
+ERROR: 2016-12-14 20:25:13,742 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "/var/www/fluid-integrates/app/views.py", line 88, in generate_autodoc
+    IT.Fluid(project, findings)
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 32, in __init__
+    self.workbook = load_workbook(filename=self.template_path)
+  File "/usr/local/lib/python2.7/dist-packages/openpyxl/reader/excel.py", line 152, in load_workbook
+    archive = _validate_archive(filename)
+  File "/usr/local/lib/python2.7/dist-packages/openpyxl/reader/excel.py", line 105, in _validate_archive
+    raise InvalidFileException(msg)
+InvalidFileException: openpyxl does not support .pptx file format, please check you can open it with Excel first. Supported formats are: .xlsx,.xlsm,.xltx,.xltm
+ERROR: 2016-12-14 20:25:37,118 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "/var/www/fluid-integrates/app/views.py", line 88, in generate_autodoc
+    IT.Fluid(project, findings)
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 32, in __init__
+    self.workbook = load_workbook(filename=self.template_path)
+  File "/usr/local/lib/python2.7/dist-packages/openpyxl/reader/excel.py", line 152, in load_workbook
+    archive = _validate_archive(filename)
+  File "/usr/local/lib/python2.7/dist-packages/openpyxl/reader/excel.py", line 105, in _validate_archive
+    raise InvalidFileException(msg)
+InvalidFileException: openpyxl does not support .pptx file format, please check you can open it with Excel first. Supported formats are: .xlsx,.xlsm,.xltx,.xltm
+ERROR: 2016-12-14 20:26:32,881 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "/var/www/fluid-integrates/app/views.py", line 88, in generate_autodoc
+    IT.Fluid(project, findings)
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 35, in __init__
+    self.generate_doc()
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 71, in generate_doc
+    self.fill_row(finding)
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 39, in fill_row
+    self.select_finding_sheet()
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 75, in select_finding_sheet
+    self.current_sheet = self.workbook["hallazgos"]
+  File "/usr/local/lib/python2.7/dist-packages/openpyxl/workbook/workbook.py", line 227, in __getitem__
+    raise KeyError("Worksheet {0} does not exist.".format(key))
+KeyError: 'Worksheet hallazgos does not exist.'
+ERROR: 2016-12-14 20:27:44,643 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "/var/www/fluid-integrates/app/views.py", line 88, in generate_autodoc
+    IT.Fluid(project, findings)
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 35, in __init__
+    self.generate_doc()
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 71, in generate_doc
+    self.fill_row(finding)
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 40, in fill_row
+    self.assign(self.COL_HALLAZGO, finding["hallazgo"])
+AttributeError: Fluid instance has no attribute 'assign'
+ERROR: 2016-12-14 20:28:24,698 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "/var/www/fluid-integrates/app/views.py", line 88, in generate_autodoc
+    IT.Fluid(project, findings)
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 35, in __init__
+    self.generate_doc()
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 71, in generate_doc
+    self.fill_row(finding)
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 40, in fill_row
+    self.assign(self.COL_HALLAZGO, finding["hallazgo"])
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 79, in assign
+    current_sheet.cell(row=self.row + inc, column=col).value = value
+NameError: global name 'current_sheet' is not defined
+ERROR: 2016-12-14 20:28:51,022 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "/var/www/fluid-integrates/app/views.py", line 88, in generate_autodoc
+    IT.Fluid(project, findings)
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 35, in __init__
+    self.generate_doc()
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 71, in generate_doc
+    self.fill_row(finding)
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 46, in fill_row
+    self.assign(self.COL_EVIDENCIA, "Evidencias/" + i["hallazgo"])
+NameError: global name 'i' is not defined
+ERROR: 2016-12-14 20:29:54,595 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "/var/www/fluid-integrates/app/views.py", line 88, in generate_autodoc
+    IT.Fluid(project, findings)
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 35, in __init__
+    self.generate_doc()
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 71, in generate_doc
+    self.fill_row(finding)
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 46, in fill_row
+    self.assign(self.COL_EVIDENCIA, "Evidencias/" + i["hallazgo"])
+NameError: global name 'i' is not defined
+ERROR: 2016-12-14 20:30:30,615 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "/var/www/fluid-integrates/app/views.py", line 88, in generate_autodoc
+    IT.Fluid(project, findings)
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 35, in __init__
+    self.generate_doc()
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 71, in generate_doc
+    self.fill_row(finding)
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 49, in fill_row
+    self.assign(self.COL_ID_REQUISITOS, self.extract_reqs(finding["requisitos"]))
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 84, in extract_reqs
+    reqs = re.findall("REQ\\.\\d{3,4}", req_vect)
+NameError: global name 're' is not defined
+ERROR: 2016-12-14 20:31:14,349 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "/var/www/fluid-integrates/app/views.py", line 88, in generate_autodoc
+    IT.Fluid(project, findings)
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 37, in __init__
+    self.save()
+TypeError: save() takes no arguments (1 given)
+INFO: 2016-12-14 21:17:13,896 Starting new HTTPS connection (1): api.onelogin.com
+DEBUG: 2016-12-14 21:17:14,542 Setting read timeout to None
+DEBUG: 2016-12-14 21:17:14,954 "POST /api/v3/saml/assertion HTTP/1.1" 200 5724
+INFO: 2016-12-14 21:17:20,807 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:17:21,298 Setting read timeout to None
+DEBUG: 2016-12-14 21:17:22,535 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 664
+INFO: 2016-12-14 21:17:22,541 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:17:23,123 Setting read timeout to None
+DEBUG: 2016-12-14 21:17:23,687 "GET /api/v2/submission/292423728.json HTTP/1.1" 200 1399
+INFO: 2016-12-14 21:17:23,695 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:17:24,174 Setting read timeout to None
+DEBUG: 2016-12-14 21:17:24,302 "GET /api/v2/submission/292424016.json HTTP/1.1" 200 1309
+INFO: 2016-12-14 21:18:58,497 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:18:59,583 Setting read timeout to None
+DEBUG: 2016-12-14 21:18:59,819 "GET /api/v2/submission/292423728.json HTTP/1.1" 200 1399
+INFO: 2016-12-14 21:21:20,693 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:21:21,335 Setting read timeout to None
+DEBUG: 2016-12-14 21:21:21,624 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 666
+INFO: 2016-12-14 21:21:21,630 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:21:22,154 Setting read timeout to None
+DEBUG: 2016-12-14 21:21:22,358 "GET /api/v2/submission/267582894.json HTTP/1.1" 200 1881
+INFO: 2016-12-14 21:21:22,367 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:21:22,855 Setting read timeout to None
+DEBUG: 2016-12-14 21:21:22,997 "GET /api/v2/submission/267873890.json HTTP/1.1" 200 1843
+ERROR: 2016-12-14 21:31:06,590 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "/var/www/fluid-integrates/app/views.py", line 86, in generate_autodoc
+    IT.Bancolombia(project, findings)
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 55, in __init__
+    self.generate_doc()
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 114, in generate_doc
+    self.fill_qc(finding)
+TypeError: fill_qc() takes exactly 1 argument (2 given)
+ERROR: 2016-12-14 21:33:28,567 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "/var/www/fluid-integrates/app/views.py", line 86, in generate_autodoc
+    IT.Bancolombia(project, findings)
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 55, in __init__
+    self.generate_doc()
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 114, in generate_doc
+    self.fill_qc(finding)
+  File "/var/www/fluid-integrates/app/autodoc/IT.py", line 84, in fill_qc
+    select_qc_sheet()
+NameError: global name 'select_qc_sheet' is not defined
+INFO: 2016-12-14 21:35:28,707 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:35:29,317 Setting read timeout to None
+DEBUG: 2016-12-14 21:35:29,584 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 420
+INFO: 2016-12-14 21:35:29,590 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:35:30,139 Setting read timeout to None
+DEBUG: 2016-12-14 21:35:30,341 "GET /api/v2/submission/282847157.json HTTP/1.1" 200 1567
+INFO: 2016-12-14 21:35:30,347 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:35:30,956 Setting read timeout to None
+DEBUG: 2016-12-14 21:35:31,153 "GET /api/v2/submission/287955186.json HTTP/1.1" 200 1673
+INFO: 2016-12-14 21:35:31,161 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:35:31,672 Setting read timeout to None
+DEBUG: 2016-12-14 21:35:31,849 "GET /api/v2/submission/292800637.json HTTP/1.1" 200 1776
+INFO: 2016-12-14 21:35:31,855 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:35:32,162 Setting read timeout to None
+DEBUG: 2016-12-14 21:35:32,321 "GET /api/v2/submission/292807093.json HTTP/1.1" 200 1785
+INFO: 2016-12-14 21:35:32,329 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:35:32,697 Setting read timeout to None
+DEBUG: 2016-12-14 21:35:32,857 "GET /api/v2/submission/292813938.json HTTP/1.1" 200 1922
+INFO: 2016-12-14 21:35:40,625 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:35:40,991 Setting read timeout to None
+DEBUG: 2016-12-14 21:35:41,299 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 420
+INFO: 2016-12-14 21:35:41,308 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:35:41,704 Setting read timeout to None
+DEBUG: 2016-12-14 21:35:41,873 "GET /api/v2/submission/282847157.json HTTP/1.1" 200 1567
+INFO: 2016-12-14 21:35:41,879 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:35:42,219 Setting read timeout to None
+DEBUG: 2016-12-14 21:35:42,424 "GET /api/v2/submission/287955186.json HTTP/1.1" 200 1673
+INFO: 2016-12-14 21:35:42,430 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:35:42,826 Setting read timeout to None
+DEBUG: 2016-12-14 21:35:42,977 "GET /api/v2/submission/292800637.json HTTP/1.1" 200 1776
+INFO: 2016-12-14 21:35:42,986 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:35:43,340 Setting read timeout to None
+DEBUG: 2016-12-14 21:35:43,519 "GET /api/v2/submission/292807093.json HTTP/1.1" 200 1785
+INFO: 2016-12-14 21:35:43,526 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:35:43,858 Setting read timeout to None
+DEBUG: 2016-12-14 21:35:43,986 "GET /api/v2/submission/292813938.json HTTP/1.1" 200 1922
+INFO: 2016-12-14 21:36:15,824 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:36:16,217 Setting read timeout to None
+DEBUG: 2016-12-14 21:36:16,422 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 375
+INFO: 2016-12-14 21:36:16,429 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:36:16,831 Setting read timeout to None
+DEBUG: 2016-12-14 21:36:17,037 "GET /api/v2/submission/282768014.json HTTP/1.1" 200 1640
+INFO: 2016-12-14 21:36:17,043 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:36:17,446 Setting read timeout to None
+DEBUG: 2016-12-14 21:36:17,662 "GET /api/v2/submission/282769362.json HTTP/1.1" 200 1756
+INFO: 2016-12-14 21:36:17,669 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 21:36:17,999 Setting read timeout to None
+DEBUG: 2016-12-14 21:36:18,162 "GET /api/v2/submission/292890349.json HTTP/1.1" 200 1699
