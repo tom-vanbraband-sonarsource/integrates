@@ -47931,3 +47931,128 @@ INFO: 2016-12-14 23:24:32,006 Starting new HTTPS connection (1): www.formstack.c
 DEBUG: 2016-12-14 23:24:32,818 Setting read timeout to None
 DEBUG: 2016-12-14 23:24:33,022 "GET /api/v2/submission/292801461.json HTTP/1.1" 200 1680
 INFO: 2016-12-14 23:24:33,029 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 23:24:33,740 Setting read timeout to None
+DEBUG: 2016-12-14 23:24:33,944 "GET /api/v2/submission/292804241.json HTTP/1.1" 200 1771
+INFO: 2016-12-14 23:24:33,950 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 23:24:34,764 Setting read timeout to None
+DEBUG: 2016-12-14 23:24:34,968 "GET /api/v2/submission/292807527.json HTTP/1.1" 200 1961
+INFO: 2016-12-14 23:24:34,977 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 23:24:35,787 Setting read timeout to None
+DEBUG: 2016-12-14 23:24:35,992 "GET /api/v2/submission/292810289.json HTTP/1.1" 200 1768
+INFO: 2016-12-14 23:24:35,999 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 23:24:36,709 Setting read timeout to None
+DEBUG: 2016-12-14 23:24:36,914 "GET /api/v2/submission/292819153.json HTTP/1.1" 200 1741
+INFO: 2016-12-14 23:24:36,934 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 23:24:37,622 Setting read timeout to None
+DEBUG: 2016-12-14 23:24:37,814 "GET /api/v2/submission/292825333.json HTTP/1.1" 200 1924
+INFO: 2016-12-14 23:24:37,820 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 23:24:38,515 Setting read timeout to None
+DEBUG: 2016-12-14 23:24:38,757 "GET /api/v2/submission/292851088.json HTTP/1.1" 200 1919
+INFO: 2016-12-14 23:24:38,763 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 23:24:39,577 Setting read timeout to None
+DEBUG: 2016-12-14 23:24:39,781 "GET /api/v2/submission/292853837.json HTTP/1.1" 200 1955
+INFO: 2016-12-14 23:24:39,787 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 23:24:40,601 Setting read timeout to None
+DEBUG: 2016-12-14 23:24:40,805 "GET /api/v2/submission/292863115.json HTTP/1.1" 200 1693
+INFO: 2016-12-14 23:24:40,812 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-14 23:24:41,577 Setting read timeout to None
+DEBUG: 2016-12-14 23:24:41,829 "GET /api/v2/submission/292877506.json HTTP/1.1" 200 1775
+INFO: 2016-12-15 13:49:19,781 Starting new HTTPS connection (1): api.onelogin.com
+DEBUG: 2016-12-15 13:49:20,544 Setting read timeout to None
+DEBUG: 2016-12-15 13:49:20,952 "POST /api/v3/saml/assertion HTTP/1.1" 200 5724
+INFO: 2016-12-15 13:49:32,773 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 13:49:33,237 Setting read timeout to None
+DEBUG: 2016-12-15 13:49:33,442 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 666
+INFO: 2016-12-15 13:49:33,455 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 13:49:33,955 Setting read timeout to None
+DEBUG: 2016-12-15 13:49:34,081 "GET /api/v2/submission/267582894.json HTTP/1.1" 200 1881
+INFO: 2016-12-15 13:49:34,088 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 13:49:34,466 Setting read timeout to None
+DEBUG: 2016-12-15 13:49:34,670 "GET /api/v2/submission/267873890.json HTTP/1.1" 200 1843
+INFO: 2016-12-15 14:32:34,271 Starting new HTTPS connection (1): api.onelogin.com
+DEBUG: 2016-12-15 14:32:34,945 Setting read timeout to None
+DEBUG: 2016-12-15 14:32:35,762 "POST /api/v3/saml/assertion HTTP/1.1" 200 5724
+INFO: 2016-12-15 14:32:44,138 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 14:32:44,776 Setting read timeout to None
+DEBUG: 2016-12-15 14:32:45,800 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 666
+INFO: 2016-12-15 14:32:45,805 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 14:32:47,135 Setting read timeout to None
+DEBUG: 2016-12-15 14:32:47,336 "GET /api/v2/submission/267582894.json HTTP/1.1" 200 1881
+INFO: 2016-12-15 14:32:47,342 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 14:32:47,951 Setting read timeout to None
+DEBUG: 2016-12-15 14:32:48,155 "GET /api/v2/submission/267873890.json HTTP/1.1" 200 1843
+INFO: 2016-12-15 14:33:27,134 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 14:33:27,444 Setting read timeout to None
+DEBUG: 2016-12-15 14:33:27,595 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 666
+INFO: 2016-12-15 14:33:27,602 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 14:33:28,100 Setting read timeout to None
+DEBUG: 2016-12-15 14:33:28,305 "GET /api/v2/submission/267582894.json HTTP/1.1" 200 1881
+INFO: 2016-12-15 14:33:28,312 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 14:33:28,696 Setting read timeout to None
+DEBUG: 2016-12-15 14:33:28,919 "GET /api/v2/submission/267873890.json HTTP/1.1" 200 1843
+INFO: 2016-12-15 15:06:12,164 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 15:06:12,704 Setting read timeout to None
+DEBUG: 2016-12-15 15:06:12,849 "GET /api/v2/submission/267582894.json HTTP/1.1" 200 1881
+INFO: 2016-12-15 15:45:21,448 Starting new HTTPS connection (1): api.onelogin.com
+DEBUG: 2016-12-15 15:45:22,287 Setting read timeout to None
+DEBUG: 2016-12-15 15:45:22,799 "POST /api/v3/saml/assertion HTTP/1.1" 200 5724
+INFO: 2016-12-15 15:45:38,856 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 15:45:39,904 Setting read timeout to None
+DEBUG: 2016-12-15 15:45:40,929 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 666
+INFO: 2016-12-15 15:45:40,935 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 15:45:41,436 Setting read timeout to None
+DEBUG: 2016-12-15 15:45:41,645 "GET /api/v2/submission/267582894.json HTTP/1.1" 200 1881
+INFO: 2016-12-15 15:45:41,652 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 15:45:42,157 Setting read timeout to None
+DEBUG: 2016-12-15 15:45:42,363 "GET /api/v2/submission/267873890.json HTTP/1.1" 200 1843
+INFO: 2016-12-15 15:46:40,901 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 15:46:42,485 Setting read timeout to None
+DEBUG: 2016-12-15 15:46:42,679 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 666
+INFO: 2016-12-15 15:46:42,684 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 15:46:43,551 Setting read timeout to None
+DEBUG: 2016-12-15 15:46:43,714 "GET /api/v2/submission/267582894.json HTTP/1.1" 200 1881
+INFO: 2016-12-15 15:46:43,721 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 15:46:44,124 Setting read timeout to None
+DEBUG: 2016-12-15 15:46:44,259 "GET /api/v2/submission/267873890.json HTTP/1.1" 200 1843
+INFO: 2016-12-15 15:50:35,534 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 15:50:36,011 Setting read timeout to None
+DEBUG: 2016-12-15 15:50:36,164 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 666
+INFO: 2016-12-15 15:50:36,170 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 15:50:36,645 Setting read timeout to None
+DEBUG: 2016-12-15 15:50:36,851 "GET /api/v2/submission/267582894.json HTTP/1.1" 200 1881
+INFO: 2016-12-15 15:50:36,857 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 15:50:42,359 Setting read timeout to None
+DEBUG: 2016-12-15 15:50:42,582 "GET /api/v2/submission/267873890.json HTTP/1.1" 200 1843
+ERROR: 2016-12-15 15:51:28,991 Internal Server Error: /generate_autodoc
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "/var/www/fluid-integrates/app/views.py", line 117, in generate_autodoc
+    return util.response([], 'Documentacion generada en ' + str("%.2f" % str_time), False)
+TypeError: float argument required, not str
+INFO: 2016-12-15 15:52:42,416 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 15:52:43,123 Setting read timeout to None
+DEBUG: 2016-12-15 15:52:43,321 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 666
+INFO: 2016-12-15 15:52:43,327 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 15:52:43,737 Setting read timeout to None
+DEBUG: 2016-12-15 15:52:43,937 "GET /api/v2/submission/267582894.json HTTP/1.1" 200 1881
+INFO: 2016-12-15 15:52:43,945 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 15:52:44,492 Setting read timeout to None
+DEBUG: 2016-12-15 15:52:44,660 "GET /api/v2/submission/267873890.json HTTP/1.1" 200 1843
+INFO: 2016-12-15 15:55:36,571 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 15:55:38,662 Setting read timeout to None
+DEBUG: 2016-12-15 15:55:40,095 "GET /api/v2/form/1998500/submission.json HTTP/1.1" 200 666
+INFO: 2016-12-15 15:55:40,102 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 15:55:40,607 Setting read timeout to None
+DEBUG: 2016-12-15 15:55:40,812 "GET /api/v2/submission/267582894.json HTTP/1.1" 200 1881
+INFO: 2016-12-15 15:55:40,819 Starting new HTTPS connection (1): www.formstack.com
+DEBUG: 2016-12-15 15:55:41,219 Setting read timeout to None
+DEBUG: 2016-12-15 15:55:41,428 "GET /api/v2/submission/267873890.json HTTP/1.1" 200 1843
