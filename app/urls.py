@@ -18,7 +18,7 @@ except ImportError:
 from app import views
 
 # pylint: disable=pointless-statement
-handler400, handler403, handler404, handler500
+handler400, handler403, handler404, handler500, handler501
 
 # pylint: disable=invalid-name
 handler400 = 'app.views.error401'
@@ -26,7 +26,7 @@ handler401 = 'app.views.error401'
 handler403 = 'app.views.error401'
 handler404 = 'app.views.error401'
 handler500 = 'app.views.error500'
-
+handler501 = 'app.views.error501'
 urlpatterns = [
     url(r'^$', views.index, name='index'),
     # Principal process.
